@@ -1,25 +1,24 @@
-{
+  {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
+    "name": "Poncho Ramos",
+    "label": "Junior Frontend Developer",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
+    "email": "alfonsoramos.1803@example.com",
+    "url": "https://ponchoramos.com",
     "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
     "theme": "default",
     "location": {
       "address": "",
       "postalCode": "10001",
       "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "countryCode": "MX",
+      "region": "Mexico"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "username": "Jose Alfonso Ramos Castro",
+        "url": "https://www.linkedin.com/in/ponchoramos/"
       },
       {
         "network": "X",
@@ -28,8 +27,8 @@
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "alfonso-ramos",
+        "url": "https://github.com/alfonso-ramos"
       }
     ]
   },
@@ -169,14 +168,14 @@
   "skills": [
     {
       "name": "Figma",
-      "level": "Expert",
+      "level": "Intermediate",
       "keywords": [
         "Design",
         "UI"
       ]
     },
     {
-      "name": "Gitlab",
+      "name": "GitHub",
       "level": "Intermediate",
       "keywords": [
         "Version Control",
@@ -243,7 +242,7 @@
     },
     {
       "name": "MySQL",
-      "level": "Intermediate",
+      "level": "Beginner",
       "keywords": [
         "Databases",
         "SQL",
@@ -258,16 +257,6 @@
         "Version Control",
         "Collaboration",
         "Source Code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
       ]
     },
     {
@@ -299,7 +288,7 @@
     },
     {
       "language": "Spanish",
-      "fluency": "Intermediate"
+      "fluency": "Native speaker"
     }
   ],
   "interests": [
